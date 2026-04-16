@@ -26,10 +26,28 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eriknox7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📌 Featured Projects
 
+<p align="left">
+  <a href="https://github.com/eriknox7/GetitDone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eriknox7&repo=GetitDone&theme=dark" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/eriknox7/HelpMeOut">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eriknox7&repo=HelpMeOut&theme=dark" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/eriknox7/Adhkar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eriknox7&repo=Adhkar&theme=dark" />
+  </a>
+</p>
+
+<!-- Visit counter -->
 ---
-[![](https://komarev.com/ghpvc/?username=eriknox7&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=eriknox7&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
