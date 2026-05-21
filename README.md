@@ -30,21 +30,22 @@
 
 <p align="left">
   <a href="https://github.com/eriknox7/GetitDone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eriknox7&repo=GetitDone&theme=dark" />
+    <img src="https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=GetitDone&theme=dark&cache_seconds=86400" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/eriknox7/HelpMeOut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eriknox7&repo=HelpMeOut&theme=dark" />
+    <img src="https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=HelpMeOut&theme=dark&cache_seconds=86400" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/eriknox7/Adhkar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eriknox7&repo=Adhkar&theme=dark" />
+    <img src="https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=Adhkar&theme=dark&cache_seconds=86400" />
   </a>
 </p>
+
 
 <!-- Visit counter -->
 ---
