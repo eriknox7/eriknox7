@@ -26,25 +26,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
 ### 📌 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/eriknox7/GetitDone">
-    <img src="https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=GetitDone&theme=dark&cache_seconds=86400" />
-  </a>
-</p>
+[![GetitDone](https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=GetitDone&theme=dark&cache_seconds=86400)](https://github.com/eriknox7/GetitDone)
 
-<p align="left">
-  <a href="https://github.com/eriknox7/HelpMeOut">
-    <img src="https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=HelpMeOut&theme=dark&cache_seconds=86400" />
-  </a>
-</p>
+[![HelpMeOut](https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=HelpMeOut&theme=dark&cache_seconds=86400)](https://github.com/eriknox7/HelpMeOut)
 
-<p align="left">
-  <a href="https://github.com/eriknox7/Adhkar">
-    <img src="https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=Adhkar&theme=dark&cache_seconds=86400" />
-  </a>
-</p>
+[![Adhkar](https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=Adhkar&theme=dark&cache_seconds=86400)](https://github.com/eriknox7/Adhkar)
 
 
 <!-- Visit counter -->
