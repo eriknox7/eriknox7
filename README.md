@@ -34,6 +34,17 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/eriknox7/GetitDone">
+    <img src="https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=GetitDone&theme=dark&cache_seconds=86400" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/eriknox7/Integrated-Workspace">
+    <img src="https://github-readme-stats-hxc6bqqp0-eriknox7.vercel.app/api/pin/?username=eriknox7&repo=Integrated-Workspace&theme=dark&cache_seconds=86400" />
+  </a>
+</p>
 
 <!-- Visit counter -->
 ---
